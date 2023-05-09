@@ -19,5 +19,30 @@ header {
 
 main {
   width: 840px;
-  margin: 50px aut;
+  margin: 50px auto;
 }
+
+.webcamp {
+  padding-bottom: 30px;
+  border-bottom: 1px solid gray;
+  margin-bottom: 30px;
+}
+
+.pro {
+  padding-bottom: 30px;
+  border-bottom: 1px solid gray;
+  margin-bottom: 30px;
+}
+
+.woman {
+  padding-bottom: 30px;
+  border-bottom: 1px solid gray;
+  margin-bottom: 30px;
+}
+
+.career {
+  padding-bottom: 30px;
+  border-bottom: 1px solid gray;
+  margin-bottom: 30px;
+}
+
